@@ -38,7 +38,7 @@ A library providing access to ADS1015 and ADS1115 I2C analog to digital converte
       // if you made it here, then the data object contains your reading!  
       reading = data;  
       // any other data processing code goes here...  
-    );  
+    });  
   }  
   ````    
 ## Tests
